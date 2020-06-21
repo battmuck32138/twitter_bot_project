@@ -1,0 +1,20 @@
+Twitter Apps
+
+progOneApp
+
+Keys and tokens
+
+
+Consumer API key
+mXunYwFRE8ZYncsMzqQON4Tpx  
+
+secret key
+rokvV7LeIp5dNYlh4MCd3l9FJfxNP4Vxy1dHlQnWliTi7fX7lX 
+
+
+Access token & access token secret
+1037277619631222785-MGT2wlQ5l3Z3Eq6yoTGRWekY8iVHT9 (Access token)
+
+Wv5a3x2SIXSJBo7OTutJfVosT0em6iNycIYIo4PnsMFoQ (Access token secret)
+
+Read and write (Access level)
